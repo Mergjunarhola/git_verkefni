@@ -25,3 +25,6 @@
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? :í þessu er það 12 (10 spurningar + forsýða sköpuð + git svör) en ég er ekki alveg viss um hvernig
 vinnu hegðun mín í kringum git ætti að vera en mér finst þegar maður ætlar að prufa ábætur ætti maður fyrst að búa til branch fyrir það og svo commita ef eithvað hefur
 einhver áhrif sem maður er annað hvort að leita eftir eða breyta hlutum væglega svo þegar það sem þú ert að leita eftir passar geturu fært branchið yfir á master
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?: Working directory er bara mappan og eða driveið sem þú ert að vinna í : stagging area
+er þar sem breytingar á skjölum eru geymdar : Respitory er þar sem allar breytingar sem þú ert ekki búinn að samþyggja en þarft samt aðgang að eru geymdar
