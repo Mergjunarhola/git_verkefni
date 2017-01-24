@@ -19,3 +19,5 @@
 	c) git diff commit1 commit2: þessi skipun mun ekki virka án einhverra skala, commits osf. sem heita "commit1" og "commit2"
 
 4. 	Hvað er útgáfustýring (e.version control)? : það er bara létt orð til að lýsa forritum sem vinna með mismunandi útgáfur af sama hlutnum
+
+5.	Hverjir eru helstu kostir við að nota GIT? : það er vel hannað til að vinna með útgáfustýringu og að mismunandi hlutum í einu
