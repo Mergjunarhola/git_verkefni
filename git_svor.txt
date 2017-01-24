@@ -1,1 +1,7 @@
 #Git spurningar og svör
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd: breytir um efnisskrá
+	cd ~ : breytir í heimasvæði
+	ls: sýnir innihald efnisskrárnar sem þú ert að nota
+	pwd: sýnir hvar efnisskráinn sem þú ert að nota er
+	mkdir: býr til nýa efnisskrá
