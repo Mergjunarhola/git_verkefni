@@ -5,3 +5,10 @@
 	ls: sýnir innihald efnisskrárnar sem þú ert að nota
 	pwd: sýnir hvar efnisskráinn sem þú ert að nota er
 	mkdir: býr til nýa efnisskrá
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone: afritar geymslu í nýa efnisskrá, getur líka verið notað til að endurnefna skjöl
+	git log: sýnir skráningu á aðgerðum sem hafa viðbæt efnisskráni sem á við, gott til að vista í mismunandi gerðir að sama hlutnum
+	git status: skilgreinir hvaða skrár eru "staged", "unstaged" og "untracked"
+	git diff: finnur munin milli tveggja hluta eins skrám commits eða branch, best er að nota það til að sjá hverju hefur verið bætt á skjali á mismunandi tímum
+	git checkout: notað til að skoða eldri gerðir að hlutnum sem þú ert að nota án þess að yfirita það sem þú ert að gera
