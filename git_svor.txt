@@ -12,3 +12,8 @@
 	git status: skilgreinir hvaða skrár eru "staged", "unstaged" og "untracked"
 	git diff: finnur munin milli tveggja hluta eins skrám commits eða branch, best er að nota það til að sjá hverju hefur verið bætt á skjali á mismunandi tímum
 	git checkout: notað til að skoða eldri gerðir að hlutnum sem þú ert að nota án þess að yfirita það sem þú ert að gera
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff : framkvæmir skipunina á venjulegan hátt eins og lýst er fyrir ofan
+	b) git diff --staged :það sýnir munin á HEAD skjalinu miðað við það sem þú valdir að nota í skipunini
+	c) git diff commit1 commit2: þessi skipun mun ekki virka án einhverra skala, commits osf. sem heita "commit1" og "commit2"
