@@ -28,3 +28,5 @@ einhver áhrif sem maður er annað hvort að leita eftir eða breyta hlutum væglega 
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?: Working directory er bara mappan og eða driveið sem þú ert að vinna í : stagging area
 er þar sem breytingar á skjölum eru geymdar : Respitory er þar sem allar breytingar sem þú ert ekki búinn að samþyggja en þarft samt aðgang að eru geymdar
+
+8.	Hvenær er sniðugt að nota greinar (branches)? :þegar maður þarf að gera breytingar sem maður vill hafa frábrugðið aðalskjalinu meðan maður er að vinna með þær
