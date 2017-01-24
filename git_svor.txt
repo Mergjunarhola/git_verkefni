@@ -17,3 +17,5 @@
 	a) git diff : framkvæmir skipunina á venjulegan hátt eins og lýst er fyrir ofan
 	b) git diff --staged :það sýnir munin á HEAD skjalinu miðað við það sem þú valdir að nota í skipunini
 	c) git diff commit1 commit2: þessi skipun mun ekki virka án einhverra skala, commits osf. sem heita "commit1" og "commit2"
+
+4. 	Hvað er útgáfustýring (e.version control)? : það er bara létt orð til að lýsa forritum sem vinna með mismunandi útgáfur af sama hlutnum
