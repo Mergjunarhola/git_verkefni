@@ -32,3 +32,5 @@ er þar sem breytingar á skjölum eru geymdar : Respitory er þar sem allar breytin
 8.	Hvenær er sniðugt að nota greinar (branches)? :þegar maður þarf að gera breytingar sem maður vill hafa frábrugðið aðalskjalinu meðan maður er að vinna með þær
 
 9.	Hver fann upp GIT? : Linus Torvalds gæinn sem fann upp linux
+
+10.	Hvar er GIT helst notað? : Github eða fyrirtækjum sem vinna með útgáfu stjórnun eða vinnu á mismunandi hlutum í einu
